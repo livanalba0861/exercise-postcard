@@ -6,13 +6,20 @@
 
 
 
+
 #wholecard {
     background-color: ghostwhite;
-    width: auto;
-    margin:auto;
+    width: 500px;
+    padding: 15px;
+    margin: auto ;
+    margin-top: 100px;
     border-radius: 20px;
     
     
+}
+
+body{
+    background-color: black;
 }
 
 /*
@@ -62,7 +69,9 @@ input{
 }
 
 button{
-    color: darkgray;
+    color: black;
     font-style: italic;
     font-weight: 100px;
+    padding: 10px;
+
 }
